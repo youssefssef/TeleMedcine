@@ -1,0 +1,199 @@
+{
+    "login" : "Log In",
+    "@login" : {
+        "description" : "A page description"
+    },
+    "signInToYourAccount" : "sign in to your account to proceed",
+    "@sign in to your account" : {
+        "description" : "signs to what to do"
+    },
+    "entreYourEmail" :"Entre your email...",
+    "@Entre you email" : {
+        "description" : "A field for email"
+    },
+    "entreYourPassword" : "Entre your password...",
+    "@Entre your password" : {
+        "description" : "A field for password"
+    },
+    "signIn" : "Sign in",
+    "@Sign in" : {
+        "description" : "A button to login"
+    },
+    "youDoNotHaveAccount" : "you do not have account" ,
+    "@you do not have account" : {
+        "description" : "A sign to registre"
+    },
+    "create" : "Create",
+    "@create" : {
+        "description" : "A button to create account"
+    },
+    "signUp" : "Sign Up",
+    "@signUp" : {
+        "description" : "sign up page"
+    },
+    "createYourAccountToProceed" : "Create your account to proceed",
+    "@createYourAccountToProceed" : {
+        "description" : "signs to the form"
+    },
+    "addProfilePicture" : "Add Profile Picture",
+    "@addProfilePicture" : {
+        "description" : "button to add profile picture"
+    },
+    "entreYourName" : "Entre your name...",
+    "@entreYourName" : {
+        "description" : "field for user name"
+    },
+    "entreYourPhone" : "Entre your phone...",
+    "@entreYourPhone" : {
+        "description" : "field for user phone"
+    },
+    "entreTheSamePassword" : "Entre the same password...",
+    "@entreTheSamePassword" : {
+        "description" : "field to repeate the password"
+    },
+    "camera" : "Camera",
+    "@camera" : {
+        "description" : "button to open camera"
+    },
+    "gallery" : "Gallery",
+    "@gallery" : {
+        "description" : "button to open gallery"
+    },
+    "welcome" : "Welcome",
+    "@welcome" : {
+        "description" : "user welcome"
+    },
+    "weAlmostThere" : "We Almost there...",
+    "@weAlmostThere" : {
+        "description" : "sign to shows the almost finish"
+    },
+    "pleaseChooseYourGender" : "Please choose your gender",
+    "@pleaseChooseYourGender" : {
+        "description" : "question to choose gender"
+    },
+    "male" : "Male",
+    "@male" : {
+        "description" : "male container"
+    },
+    "female" : "Female",
+    "@female" : {
+        "description" : "female container"
+    },
+    "swapLeft" : "Swap Left",
+    "@swapLeft" : {
+        "description" : "sign to swap"
+    },
+    "pleaseChooseYourBirth" : "Please choose your birth",
+    "@pleaseChooseYourBirth" : {
+        "description" : "question to choose birth"
+    },
+    "pleaseChooseYourWeightAndHeight" : "Please choose your Weight and height",
+    "@pleaseChooseYourWeightAndHeight" : {
+        "description" : "question to choose Weight and height"
+    },
+    "weight" : "Weight",
+    "@weight" : {
+        "description" : "weight text"
+    },
+    "height" : "Height",
+    "@height" : {
+        "description" : "height text"
+    },
+    "whatIsYouBloddType" : "What is your blood type?",
+    "@whatIsYouBloddType" : {
+        "description" : "question to choose blood type"
+    },
+    "bloodType" : "Blood Type",
+    "@bloodType" : {
+        "description" : "text field for blood type"
+    },
+    "doYouSmoke" : "Do you smoke?",
+    "@doYouSmoke" : {
+        "description" : "question for does he smoke"
+    },
+    "ifYouSmokeOccasionnally" : "If you smoke occasionnally, you should go for a 'No' option",
+    "@ifYouSmokeOccasionnally" : {
+        "description" : "question for smoke option"
+    },
+    "yesICurrentlySmoke" : "Yes, I currently smoke",
+    "@yesICurrentlySmoke" : {
+        "description" : "field for yes i smoke"
+    },
+    "noButIamAFomerSmoker" : "No, but i am a former smoker",
+    "@NoButIamAFomerSmoker" : {
+        "description" : "field for no i was"
+    },
+    "no" : "No",
+    "@no" : {
+        "description" : "field for no"
+    },
+    "howManyYearsSmoking" : "How many yers have you been smoking?",
+    "@howManyYearsSmoking" : {
+        "description" : "field for how many years"
+    },
+    "years" : "Years...",
+    "@years" : {
+        "description" : "field for years"
+    },
+    "howManyCigarettes" : "How many cigarettes do you smoke per day?",
+    "@howManyCigarettes" : {
+        "description" : "field for how many cigarettes"
+    },
+    "ifYouDoNotSmokejustWrite" : "If you do not smoke just write 0",
+    "@ifYouDoNotSmokejustWrite" : {
+        "description" : "text if he dont smoke"
+    },
+    "amountsOfCigarettes" : "Amounts of cigarettes...",
+    "@amountsOfCigarettes" : {
+        "description" : "field for amoun tof cigarettes"
+    },
+    "applyToYouWorkLife" : "Does any of the following apply to your work life?",
+    "@applyToYouWorkLife" : {
+        "description" : "question for work life"
+    },
+    "iSpendMoreThan" : "I spend more than 4 hours a day at my desk and/or looking at a computer screen",
+    "@iSpendMoreThan" : {
+        "description" : "option for computer"
+    },
+    "myJobRequired" : "My job required heavy lifting or other types of physical work",
+    "@myJobRequired" : {
+        "description" : "option for work"
+    },
+    "neitherApplies" : "Neither applies",
+    "@neitherApplies" : {
+        "description" : "option for neither applies"
+    },
+    "medicaleConditions" : "Do any of the following medicale conditions apply to your immediate relatives(parents, siblings, grandparents)?",
+    "@medicaleConditions" : {
+        "description" : "question for medicale conditions"
+    },
+    "hearthProblems" : "Hearth problems",
+    "@hearthProblems" : {
+        "description" : "option for health problems"
+    },
+    "diabetes" : "Diabetes",
+    "@amountsOfCigarettes" : {
+        "description" : "option for diabetes"
+    },
+    "highBloodPressure" : "High blood pressure",
+    "@highBloodPressure" : {
+        "description" : "option for high blood pressure"
+    },
+    "psychologicalDiffculties" : "Psychological diffculties",
+    "@psychologicalDiffculties" : {
+        "description" : "option for psychological diffculties"
+    },
+    "lungProblems" : "Lung problems",
+    "@lungProblems" : {
+        "description" : "option for lung problems"
+    },
+    "none" : "None",
+    "@none" : {
+        "description" : "option for none"
+    },
+     "save" : "Save",
+    "@save" : {
+        "description" : "button for save"
+    }
+
+}
